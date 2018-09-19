@@ -1,3 +1,3 @@
 # gitdemo
 
-kjshdvfjsbvjlsbdv
+print 'Hello, World!'
